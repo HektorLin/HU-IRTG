@@ -2,7 +2,6 @@
 save for works for the Humboldt University IRTG 1792
 
 Task 1: Web scraping from the website https://www.stateofthedapps.com/de/dapps. Get the name, category, and hash address for every DApps.
-
 Main source code: Web Scraping.ipynb
 
 Task 2: Partition codes and comments from Solidity source files.
