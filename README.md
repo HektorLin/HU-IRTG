@@ -8,5 +8,7 @@ Task 2: Partition codes and comments from Solidity source files.\
 Main source code: Partition Codes and Comments.ipynb
 
 Task 3: Explore the predictablility of the category of a DApp from its source codes and comments, using ML.\
-Main source code: DApp_calssification.ipynb
+Main source code: DApp_calssification.ipynb\
+Optimal hyperparams: params_search.pickle\
+Preliminary AUC scores: AUC.JPG
 
