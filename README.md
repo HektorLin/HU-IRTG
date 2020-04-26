@@ -7,5 +7,5 @@ Main source code: Partition Codes and Comments.ipynb
 Task 2: Explore the predictablility of the category of a DApp from its source codes and comments, using ML.\
 Main source code: DApp_calssification.ipynb\
 Optimal hyperparams: params_search.pickle\
-Preliminary AUC scores: AUC.JPG, validation_auc.csv, test_auc.csv
+Preliminary AUC scores: validation_auc.csv, test_auc.csv
 
